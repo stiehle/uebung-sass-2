@@ -25,7 +25,6 @@ export const products = [
     price_reduce: 30.99,
     price_unit: "€",
   },
-
   {
     id: 2,
     file: "pico-wh-2_300x300.avif",
