@@ -1,3 +1,3 @@
 export default {
-  base: "uebung-sass-2",
+  base: "/uebung-sass-2/",
 };
